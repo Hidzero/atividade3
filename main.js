@@ -25,6 +25,9 @@
 
 // é estruturado em formato de arvore
 
-var titulo = document.getElementsByTagName('h1')[0];
-console.log(titulo);
+// var titulo = document.getElementsByTagName('h1')[0];
+// console.log(titulo);
 
+function a(){
+    alert('Eu te amo S2')
+}
